@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "311542646101",
+    "project_id": "day1313-9b4db",
+    "storage_bucket": "day1313-9b4db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311542646101:android:ae92a1a386a3b09aa8dbdc",
+        "android_client_info": {
+          "package_name": "com.nativenotify.Myfirstapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZPRiISCBoa1L32HQxT-2YVplHnfc5XMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
